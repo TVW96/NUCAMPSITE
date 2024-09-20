@@ -1,0 +1,22 @@
+body {
+    @font-face {
+        font-family: "Lobster";
+        src: url();
+    }
+}
+
+
+h1, 
+h2, 
+h3 {
+
+    font-family: Lobster, sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to right, rgb(74, 48, 215), rgb(83, 20, 101));
+    color: white;
+}
+header h2 {
+    color: gainsboro
+}
