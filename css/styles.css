@@ -36,3 +36,7 @@ h5 {
     font-size: 19px;
     font-weight: 400;
 }
+
+.tab-content {
+    border: 1px solid #DDD;
+}
